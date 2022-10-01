@@ -102,6 +102,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  jekyll
   minimal-mistakes-jekyll
   rspec (~> 3.11)
 
