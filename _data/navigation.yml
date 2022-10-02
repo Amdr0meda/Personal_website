@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Home"
+    url: https://carlosmunoztorrijos.com/
+  - title: "Skills"
+    url: https://carlosmunoztorrijos.com/
+  - title: "Projects"
+    url: https://carlosmunoztorrijos.com/
+  - title: "Curriculum"
+    url: https://carlosmunoztorrijos.com/
