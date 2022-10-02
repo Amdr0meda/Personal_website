@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Muñoz Torrijos"
-  avatar           : "/assets/images/bio-photo.webp"
+  avatar           : "/assets/svg/logo.svg"
   bio              : "Soy Carlos, un joven estudiante informático con gran interés en la rama de la ciberseguridad. Me gusta aprender como funciona por detrás cada sistema, andar probando y haciendo diversos proyectos con servidores, nodos, páginas webs, bots en Python, redes y mucho más."
   location         : "Madrid, España"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contacto@carlosmunnoztorrijos.com"
+      url: "mailto:contacto[@]carlosmunnoztorrijos.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://carlosmunoztorrijos.com"
@@ -274,6 +274,7 @@ tag_archive:
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
+  endings: all
   ignore:
     envs: development
 
