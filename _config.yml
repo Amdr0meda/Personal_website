@@ -18,15 +18,15 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 locale                   : "es-ES"
 title                    : "Carlos Muñoz Torrijos"
 title_separator          : "-"
-subtitle                 : "V0.0.1"
+subtitle                 : #"V0.0.1"
 name                     : "Carlos Muñoz Torrijos"
 description              : "Bienvenido. Soy Carlos, un joven estudiante informático con gran interés en la rama de la ciberseguridad. Me gusta aprender como funciona por detrás cada sistema, andar probando y haciendo diversos proyectos con servidores, nodos, páginas webs, bots en Python, redes y mucho más."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.carlosmunoztorrijos.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/svg/logo.svg"
-masthead_title           : "Bienvenido, root"
+masthead_title           : #"Bienvenido a mi web"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
