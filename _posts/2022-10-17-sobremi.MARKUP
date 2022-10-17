@@ -1,28 +1,30 @@
 ---
-layout: single
+layout: compress
 title:  "Sobre mi"
 permalink: /sobre-mi/
+keywords: Sobre mi, Carlos, Carlos Muñoz, Carlos Muñoz TorrijosS
+summary: "¡Hola! Lee un poco sobre mi..."
 ---
 
 # ¡Hola!
 
-
+<br> <br/>
 #### Soy Carlos Muñoz, y soy un Técnico Administrador de Sistemas.
 Desde joven descubri el mundo de la informatica y desde entonces no he podido dejar de seguir interesandome, formandome y practicando. Esta es mi web personal, donde puedes ver mis cualidades, cursos, certificaciones, proyectos personales entre otra información.
 
-------------
+<br> <br/>
 
 
 Actualmente desarrollo un puesto en Malvón como Técnico Administrador de Sistemas y estoy enfocado en seguir mi carrera profesional con el Máster en Ciberseguridad Prime a la vez que me examino en otras formaciones como Microsoft SC-200, Fortinet NSE4 o Cisco Cloud Security. Deseo desarollar mi carrera en la rama de la Ciberseguridad.
-
+<br> <br/>
 He desarrollado varios proyectos como la creación de un Bot escrito en Python para poder controlar SBC de manera remota via Telegram, Scripts en BAsh para gestión básica de equipos entre otros, a la vez que aporto a la comunidad pequeños granos de arena que pueden ayudar a otros como mis reglas de UFW de Cloudflare.
-
+<br> <br/>
 Me encanta explicar y enseñar a otras personas conceptos, refuerza mi conocimiento y me agrada ver que otros me comprenden. Estoy siempre abierto a mejorar y dar todo de mi, mínimo aprender una cosa cada día es mi meta.
 
 
-------------
+<br> <br/>
 
 
 Te animo a que des una vuelta por mi web, veas mi currículum, algunos de mis proyectos, posts y escribirme para lo que quieras a mi correo electrónico.
-
+<br> <br/>
 *Saludos usuario*
