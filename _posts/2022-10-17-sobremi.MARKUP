@@ -1,15 +1,15 @@
 ---
-layout: compress
+layout: single
 title:  "Sobre mi"
 permalink: /sobre-mi/
 keywords: Sobre mi, Carlos, Carlos Muñoz, Carlos Muñoz TorrijosS
 summary: "¡Hola! Lee un poco sobre mi..."
 ---
 
-# ¡Hola!
+¡Hola!
 
 <br> <br/>
-#### Soy Carlos Muñoz, y soy un Técnico Administrador de Sistemas.
+Soy Carlos Muñoz, y soy un Técnico Administrador de Sistemas.
 Desde joven descubri el mundo de la informatica y desde entonces no he podido dejar de seguir interesandome, formandome y practicando. Esta es mi web personal, donde puedes ver mis cualidades, cursos, certificaciones, proyectos personales entre otra información.
 
 <br> <br/>
@@ -27,4 +27,5 @@ Me encanta explicar y enseñar a otras personas conceptos, refuerza mi conocimie
 
 Te animo a que des una vuelta por mi web, veas mi currículum, algunos de mis proyectos, posts y escribirme para lo que quieras a mi correo electrónico.
 <br> <br/>
-*Saludos usuario*
+<br> <br/>
+Saludos usuario
