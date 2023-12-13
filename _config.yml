@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "Carlos Muñoz Torrijos"
+title                    : "Carlos Muñoz Torrijos Blog"
 title_separator          : "-"
 subtitle                 : #"V0.0.1"
 name                     : "Carlos Muñoz Torrijos"
-description              : "Bienvenido. Soy Carlos, un joven estudiante informático con gran interés en la rama de la ciberseguridad. Me gusta aprender como funciona por detrás cada sistema, andar probando y haciendo diversos proyectos con servidores, nodos, páginas webs, bots en Python, redes y mucho más."
+description              : "Bits, Bytes y Bugs"
 url                      : "https://www.carlosmunoztorrijos.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Carlos Muñoz Torrijos"
   avatar           : "/assets/svg/logo.svg"
-  bio              : "Soy Carlos, un joven estudiante informático con gran interés en la rama de la ciberseguridad. Me gusta aprender como funciona por detrás cada sistema, andar probando y haciendo diversos proyectos con servidores, nodos, páginas webs, bots en Python, redes y mucho más."
+  bio              : "Bits, Bytes y Bugs"
   location         : "Madrid, España"
   email            :
   links:
@@ -116,6 +116,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://carlosmunoztorrijos.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/amdr0meda"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/carlosmunoztorrijos/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/amdr0meda"
