@@ -1,12 +1,4 @@
-# main links
 main:
-  - title: "Inicio"
-    url: https://carlosmunoztorrijos.com/
-  - title: "Skills"
-    url: https://carlosmunoztorrijos.com/skills
-  - title: "Proyectos"
-    url: https://carlosmunoztorrijos.com/proyectos
-  - title: "Curriculum"
-    url: https://carlosmunoztorrijos.com/curriculum
-  - title: "Sobre mi"
-    url: https://carlosmunoztorrijos.com/sobre-mi
+  - ref: archive
+  - ref: categories
+  - ref: tags
