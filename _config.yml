@@ -8,12 +8,12 @@ title                    : "Carlos Muñoz Torrijos Blog"
 title_separator          : "-"
 subtitle                 : #"V0.0.1"
 name                     : "Carlos Muñoz Torrijos"
-description              : "Bits, Bytes y Bugs"
+description              : "@amdr0meda"
 url                      : "https://www.carlosmunoztorrijos.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"/assets/svg/logo.svg"
+logo                     : "/assets/images/favicon-32x32.png"
 masthead_title           : #"Bienvenido a mi web"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -78,9 +78,14 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Carlos Muñoz Torrijos"
+  links:
+    - "https://twitter.com/"
+    - "https://www.github.com/"
+    - "https://www.linkedin.com/in//"
+    - "https://www.youtube.com/user/"
+    - "https://instagram.com/"
 
 # Analytics
 analytics:
