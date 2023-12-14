@@ -93,9 +93,9 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Muñoz Torrijos"
-  avatar           : "/assets/images/carlosmunoztorrijos.jpg"
-  bio              : "Bits, Bytes y Bugs"
-  location         : "Madrid, España"
+  avatar           : "/assets/images/carlosmunoztorrijos.png"
+  bio              : "@amdr0meda"
+  location         : #"Madrid, España"
   email            :
   links:
     - label: "Email"
