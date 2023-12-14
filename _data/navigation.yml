@@ -1,7 +1,7 @@
 main:
   - title: "Archivo"
-    url: /arcghivo/
+    url: /es/archivo/
   - title: "Categorías"
-    url: /categorias/
+    url: /es/categorias/
   - title: "Etiquetas"
-    url: /tetiquetas/
+    url: /es/etiquetas/
