@@ -114,9 +114,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contacto[@]carlosmunnoztorrijos.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/amdr0meda"
@@ -271,7 +268,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: # true
       related: true
       search: true
   # _pages
