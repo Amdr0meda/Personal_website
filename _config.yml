@@ -6,15 +6,15 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 locale                   : "es-ES"
 title                    : "Carlos Muñoz Torrijos Blog"
 title_separator          : "-"
-subtitle                 : "V0.0.1"
+subtitle                 : #"V0.0.1"
 name                     : "Carlos Muñoz Torrijos"
 description              : "@amdr0meda"
 url                      : "https://www.carlosmunoztorrijos.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/mstile-70x70.png"
-masthead_title           : "Bienvenido a mi web"
+logo                     : "/assets/images/mstile-70x70.webp"
+masthead_title           : "amdr0meda's Blog"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -81,11 +81,9 @@ social:
   type                   : "Person"
   name                   : "Carlos Muñoz Torrijos"
   links:
-    - "https://twitter.com/"
-    - "https://www.github.com/"
-    - "https://www.linkedin.com/in//"
-    - "https://www.youtube.com/user/"
-    - "https://instagram.com/"
+    - "https://twitter.com/amdr0meda"
+    - "https://www.github.com/amdr0meda"
+    - "https://www.linkedin.com/in/carlosmunoztorrijos/"
 
 # Analytics
 analytics:
@@ -197,7 +195,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 3 # amount of posts to show
+paginate: 2 # amount of posts to show
 paginate_path: /page:num/
 timezone: "Europe/Madrid"
 
