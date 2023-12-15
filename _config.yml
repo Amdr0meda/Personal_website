@@ -6,7 +6,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 locale                   : "es-ES"
 title                    : "Carlos Muñoz Torrijos Blog"
 title_separator          : "-"
-subtitle                 : #"V0.0.1"
+subtitle                 : "V0.0.1"
 name                     : "Carlos Muñoz Torrijos"
 description              : "@amdr0meda"
 url                      : "https://www.carlosmunoztorrijos.com"
@@ -14,7 +14,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/mstile-70x70.png"
-masthead_title           : #"Bienvenido a mi web"
+masthead_title           : "Bienvenido a mi web"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Muñoz Torrijos"
-  avatar           : "/assets/images/carlosmunoztorrijos.png"
+  avatar           : "/assets/images/carlosmunoztorrijos.webp"
   bio              : "@amdr0meda"
   location         : #"Madrid, España"
   email            :
