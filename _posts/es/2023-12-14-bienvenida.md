@@ -4,9 +4,11 @@ header: "Bienvenida"
 permalink: /es/Bienvenida/
 image: /assets/images/banner.webp
 keywords: Bienvenida, Carlos Muñoz Torrijos
-layout: posts
 author_profile: true
+toc: false
+ref: 1
 lang: es
+
 ---
 
 <br>
