@@ -2,7 +2,7 @@
 title: "Sobre mi"
 header: "Sobre mi"
 permalink: /es/sobre-mi/
-image: /assets/images/android-chrome-512x512-banner.png
+image: /assets/images/banner.webp
 keywords: Sobre mi, Carlos, Carlos Muñoz, Carlos Muñoz Torrijos
 layout: posts
 author_profile: true
