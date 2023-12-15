@@ -197,9 +197,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 3 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Europe/Madrid"
 
 
 # Plugins (previously gems:)
@@ -232,12 +232,10 @@ whitelist:
 category_archive:
   type: liquid
   path:
-    en: "/en/categories/"
     es: "/es/categorias/"
 tag_archive:
   type: liquid
   path:
-    en: "/en/tags/"
     es: "/es/etiquetas/"
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
