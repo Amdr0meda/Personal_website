@@ -8,8 +8,7 @@ layout: posts
 author_profile: true
 lang: es
 ---
-
-## Carlos Muñoz
+<br>
 
 ¡Bienvenido a mi rincón personal! Aquí compartiré mis experiencias, desafíos y soluciones en el día a día de un informatico. Desde bugs hasta problemas más técnicos.
 
