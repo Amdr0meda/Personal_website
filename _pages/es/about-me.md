@@ -4,7 +4,6 @@ header: "Sobre mi"
 permalink: /es/sobre-mi/
 image: /assets/images/banner.webp
 keywords: Sobre mi, Carlos, Carlos Muñoz, Carlos Muñoz Torrijos
-layout: posts
 author_profile: true
 lang: es
 ---
