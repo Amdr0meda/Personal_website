@@ -7,3 +7,5 @@ main:
     url: /es/etiquetas/
   - title: "Sobre mi"
     url: /es/sobre-mi/
+  - title: "Buscar"
+    url: /es/search/
