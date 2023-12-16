@@ -98,12 +98,12 @@ author:
   name             : "Carlos Muñoz Torrijos"
   avatar           : "/assets/images/carlosmunoztorrijos.webp"
   bio              : "@amdr0meda"
-  location         : #"Madrid, España"
+  location         : "Madrid, España"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contacto[@]carlosmunnoztorrijos.com"
+      url: "mailto:contacto@carlosmunnoztorrijos.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/amdr0meda"
