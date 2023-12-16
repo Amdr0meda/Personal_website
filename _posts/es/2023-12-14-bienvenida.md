@@ -1,15 +1,14 @@
 ---
 title: "Bienvenida"
-header: "Bienvenida"
+header:
   image: /assets/images/banner.webp
-keywords: Bienvenida, Carlos Muñoz Torrijos
-author_profile: true
+categories:
+  - post
 toc: false
-ref: 1
 lang: es
-permalink: /es/Bienvenida/
+ref: 1
+permalink: /es/bienvenida/
 last_modified_at: 2023-12-16
 ---
 
-<br>
-Post de bienvenida
+Este es un post inicial
