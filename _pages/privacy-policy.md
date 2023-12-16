@@ -3,6 +3,7 @@ title: "Privacy Policy"
 excerpt: "Your privacy rights and how the law protects You."
 sitemap: false
 permalink: /privacy-policy.html
+classes: wide
 ---
 
 <script type="text/javascript">
