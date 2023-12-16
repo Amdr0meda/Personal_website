@@ -1,6 +1,6 @@
 ---
 layout: search
-title: Escribe aqui tu busqueda:
+title: Escribe aqui tu busqueda
 permalink: /es/search/
 ---
 
