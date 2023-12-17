@@ -2,6 +2,8 @@
 title: "Bienvenida"
 header:
   image: /assets/images/banner.webp
+sidebar:
+  nav: "docs"
 categories:
   - post
 toc: false
