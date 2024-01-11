@@ -9,6 +9,8 @@ lang: es
 ---
 <br>
 
-¡Bienvenido a mi rincón personal! Aquí compartiré mis experiencias, desafíos y soluciones en el día a día de un informatico. Desde bugs hasta problemas más técnicos.
+Hola, soy Carlos, un administrador de sistemas de 23 años con 2 años de experiencia práctica. Entre mis habilidades gestiono puntos de venta, software asociado y la administración de entornos cloud, con enfoque en Cloudflare.
+  	Desarrollo actualmente la implementación de medidas de seguridad, como configuración de VPN y firewalls cloud, ayudado de mis conocimientos sólidos en redes, Windows Server y Linux (Debian y derivados) gracias al grado superior ASIR. A su vez, facilito soporte informático a los departamentos mientras gestiono e implemento tareas y backups con redundancia.
 
-Ya seas un aficionado a la tecnología o simplemente alguien curioso, este blog es un vistazo honesto a cómo enfrento los obstáculos y encuentro soluciones creativas. Cada publicación es una oportunidad para aprender de mis errores.
+Como hobby he creado entornos de alta disponibilidad con PVE (Proxmox), servidores DNS, DHCP, SMB, nodos de red, entre otros servicios. Añadiendo el uso de entornos cloud como AWS y WAF como Cloudflare donde cuento con una amplia experiencia.
+Soy capaz de trabajar en equipo, de una manera constructiva, aportando un buen ambiente, ayudando en todo lo posible y abierto a recibir propuestas de mejora. Y por supuesto, siempre abierto a poder implementar y ampliar mis conocimientos tanto a nivel de red como de ciberseguridad. 
